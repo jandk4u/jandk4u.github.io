@@ -1,0 +1,324 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#b8312f",
+        "secondaryColor": "#000000",
+        "successColor": "#b8312f",
+        "infoColor": "#000000",
+        "warningColor": "#b8312f",
+        "dangerColor": "#000000",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 24,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "20px",
+              "color": "#edaea9",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-title": {
+              "color": "#d6d1d1"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/picture-78-2-2000x1125.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Welcome To Our Playroom",
+          "text": "We are Kilee and Jeremy, We are a fun loving, sensual couple that loves to explore our own sexuality as well as others. Welcome to our world of intense desire, where our passion is creating unique personal experiences that indulge the deepest, sexiest, most primal desires and fantasies of our fans. We want to provide our followers with a different kind of virtual experience, one that is more interactive, personal, and tailored precisely to what you desire the most..We encourage you to customize  your experience with us by telling us what it is you so desperately long for, including every naughty little detail, and then we make it happen for you...So let us know what it is that you secretly desire,no matter how different, kinky, or odd, we are very open to new things and we love blowing your mind.This is what turns us on, this is what makes us horny, and this is what we love! <br>Jeremy and Kilee,<br> \"Bringing your wildest imagination to virtual life right before your eyes\"",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Follow Us On Twitter</a>   "
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"mailto:JandK4U‏ @JandK4U\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/jandk4u/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "&nbsp;Watch us live on Chatturbate. Sign up for free!",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\" https://chaturbate.com/affiliates/in/?track=default&amp;tour=LQps&amp;campaign=tr9v4&amp;room=jandk4u\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">See our free cam</a>          "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/picture-78-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "How she makes me Listen!",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/picture-80-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Order custom videos",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/picture-103-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/picture-97-2-2000x2493.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Our Videos",
+                "showText": true,
+                "text": "Check out our videos , we also do custom &nbsp;content, click below &nbsp;to see our videos or request a custom, or start selling your own vids!",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.manyvids.com/Join-MV/1000438966\" data-toolbar=\"-mbrBtnMove\">See our videos or sell your own here!</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-m",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            "UL": {
+              "text-align": "center"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#28262b"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#28262b"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": false,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "bg-primary"
+          },
+          "title": "Show Themes",
+          "subtitle": "We like to switch things up so often there will be a theme to our show. If a theme has been selected it will show in the subject of our room while we are live. Below are some examples of the different themes including some options, and things to expect for each.",
+          "label1": "HOT!",
+          "title1": "No Rules",
+          "subtitle1": "No specific theme, just us chilling, chatting, taking requests! We love getting to you, come tell us what gets you hot! Cumshow when goal is reached.",
+          "currency1": "",
+          "price1": "30",
+          "period1": "/min.",
+          "description1": "<b>Cost for private (in tokens)</b>",
+          "list1": "<ul class=\"list-group list-group-flush\"><p><span style=\"font-size: 1rem; line-height: 1.5;\"><i><b>Requests- 100 tokens</b></i></span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\"><i>Public &amp; Crazy Ticket Shows</i></span></p><p><b style=\"font-size: 1rem; line-height: 1.5;\">Examples of what this show features.&nbsp;</b><br></p><p>Sensual kissing/touching</p><p>Fingering/handjob</p><p>Oral Pleasure</p><p>some toys</p><p><b>Open to most anything during this show, let us know what you want to see!</b></p><p></p></ul><p><br></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "label2": "HOT!",
+          "title2": "Bondage",
+          "subtitle2": "Oh Yeah! This is one of our favorites! Sub must obey every command! Sexy and intense!",
+          "currency2": "",
+          "price2": "90",
+          "period2": "/min.",
+          "description2": "Cost for private (in tokens)",
+          "list2": "<ul class=\"list-group list-group-flush\"><p><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><i><b>Requests- 150tokens</b></i></span></p><p><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><i>Public &amp; Crazy Ticket Shows</i></span></p><p><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><i>Dom/Sub role switch after show has started will cost 1000 tokens.</i></span></p><p><b style=\"font-size: 0.875rem; line-height: 3.125rem;\">What to expect</b><br></p><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Leather</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Whips&nbsp;</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Chains&nbsp;</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Sensory deprivation mask</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">ropes</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Handcuffs</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Blindfolds</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Under bed restraint system&nbsp;</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\"><b>Intense show, follow the Doms rules or be punished!!!</b></span></li><p></p></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "Role Play",
+          "subtitle3": "Fun show, including characters, costumes, props, and bits.",
+          "currency3": "",
+          "price3": "60",
+          "period3": "/min.",
+          "description3": "Cost for private (in tokens)",
+          "list3": "<span style=\"font-size: 14px; line-height: 50px;\"><b>w</b></span><ul class=\"list-group list-group-flush\"><p></p><li class=\"list-group-item\"><i><b>Requests 150 tokens</b>&nbsp;</i></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Public &amp; Crazy Ticket shows that are h</span><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">ighly customisable, let us know ur favorite scenario!</span></li><li class=\"list-group-item\"><b>Some examples include:</b></li><li class=\"list-group-item\">Naughty Nurse</li><li class=\"list-group-item\">Immoral Doctor</li><span style=\"font-size: 14px; line-height: 50px;\">Private school girl</span><p></p><p><span style=\"font-size: 14px; line-height: 50px;\">Vampire/sci fi</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Repairman/Plumber</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Delivery Man</span></p><p><br></p></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "Fetish/Kink",
+          "subtitle4": "This is another on of our favorite shows to do because we are pretty kinky ourselves. Come share your fetish and kinks with us, we are happy to accomodate your desires!",
+          "currency4": "",
+          "price4": "90",
+          "period4": "/min.",
+          "description4": "Cost for private (in tokens)",
+          "list4": "<ul class=\"list-group list-group-flush\"><p><span style=\"font-size: 14px; line-height: 50px;\"><b>Requests 150 tokens</b></span></p><p><span style=\"font-size: 14px; line-height: 50px;\"><b>Including but not limited to:</b></span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Squirting</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Foot Worship</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Smoking</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Spanking/Flogging</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Leash&amp;Collar</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Shower/Bath Play</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Shaving</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Toy play</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Masks/Blindfolds</span></p><p><span style=\"font-size: 14px; line-height: 50px;\"><b>This is another extemely versatile show. Dont be afraid to tell us what your kink is, odds are high that are we just may do it! We love trying new exciting things so just let us know, we will tell you if we are up for it!</b>&nbsp;</span></p></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+        }
+      ]
+    }
+  }
+}
